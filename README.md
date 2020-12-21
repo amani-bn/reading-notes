@@ -21,3 +21,8 @@ Loses focus | Persits
 This site was help you to get more information [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset/).
 
 ### my name amani bani naser im computer engineering and this is [ my link to GitHub profile ](https://github.com/amani-bn)
+
+# my name amani bani naser im computer engineering 
+title | link
+----- | -----
+read1 | [link to read1](https://amani-bn.github.io/reading-notes/read1)
