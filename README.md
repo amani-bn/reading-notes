@@ -25,6 +25,6 @@ This site was help you to get more information [How you can benefit from a growt
 
 # my name amani bani naser im computer engineering 
 
-| title | link                                                            |
+| title | link |
 | ----- | --------------------------------------------------------------- |
 | read1 | [link to read1](https://amani-bn.github.io/reading-notes/read1) |
