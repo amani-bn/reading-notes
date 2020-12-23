@@ -28,4 +28,5 @@ This site was help you to get more information [How you can benefit from a growt
 | title | link |
 | ----- | --------------------------------------------------------------- |
 | read1 | [link to read1](https://amani-bn.github.io/reading-notes/read1) |
-| read4 |[link to read4](https://amani-bn.github.io/reading-notes/read4)
+| read4 |[link to read4](https://amani-bn.github.io/reading-notes/read4)|
+|read6|[link to read6](https://amani-bn.github.io/reading-notes/read6)|
