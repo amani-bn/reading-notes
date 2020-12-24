@@ -14,11 +14,11 @@
 
 ## logical opertor : allow you to compare the results of more than one comparison operator .
 
-|opertor|  |what doing|
-| -------| |-------|
-| `&&`|    | this opertor tests more than one condtion |
-|`||`|     | this opertor tests at least one condtion |
-| `!`|     |  this opertor takes a single boolean value and invert it |
+|opertor  |what doing|
+| ------- |-------|
+| `&&`    | this opertor tests more than one condtion |
+|`||`     | this opertor tests at least one condtion |
+| `!`     |  this opertor takes a single boolean value and invert it |
 
 loops check a condtion, if it return true acode will run until the condtion return false.
  
