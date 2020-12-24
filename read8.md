@@ -1,4 +1,5 @@
 # comparison opertor
+
 |opetor|what doing |
 |------ |-------------------------------------------------------------------------                     |
 |==|  |  compares two values(numbers,strings,boolean) to see if they are the same                     |
@@ -12,6 +13,7 @@
 
 
 ## logical opertor : allow you to compare the results of more than one comparison operator .
+
 | opertor | | what doing |
 | ****** | |****** |
 | && | | this opertor tests more than one condtion |
