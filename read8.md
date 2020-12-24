@@ -1,14 +1,14 @@
 # comparison opertor
-|opeto r|what doing |
+|opetor|what doing |
 |------ |-------------------------------------------------------------------------                     |
-| == |  |  compares two values(numbers,strings,boolean) to see if they are the same                     |
-| != |  | compares two values (numbers,strings,boolean) to see if they are not the same                 |
-| === | |  compares two values to check that both the data type and value are the same                 |
-| !== | | compares two values to check that both the data type and value are not the same              |
-| > |   | this operator checks if the number on the left is greater than the number on the right         |
-| < |   |  this operator checks if the number on the left is less than the number on the right           |
-| >= |  | this operator checks if the number onthe left is greater than or equal the number onthe right |
-| <= |  | this operator checks if the nymber on the left is less than or equal the number on the right  |
+|==|  |  compares two values(numbers,strings,boolean) to see if they are the same                     |
+|!=|  | compares two values (numbers,strings,boolean) to see if they are not the same                 |
+|===| |  compares two values to check that both the data type and value are the same                 |
+|!==| | compares two values to check that both the data type and value are not the same              |
+|> || this operator checks if the number on the left is greater than the number on the right         |
+|< |  this operator checks if the number on the left is less than the number on the right           |
+|>=| | this operator checks if the number onthe left is greater than or equal the number onthe right |
+|<=| | this operator checks if the nymber on the left is less than or equal the number on the right  |
 
 
 ## logical opertor : allow you to compare the results of more than one comparison operator .
