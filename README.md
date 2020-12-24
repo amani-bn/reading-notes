@@ -32,3 +32,4 @@ This site was help you to get more information [How you can benefit from a growt
 |read6|[link to read6](https://amani-bn.github.io/reading-notes/read6)|
 | read6b|[link to read6b](https://amani-bn.github.io/reading-notes/read6b)|
 | read7 |[link to read7](https://amani-bn.github.io/reading-notes/read67)|
+| read8 | [link to read8](https://amani-bn.github.io/reading-notes/read68) |
