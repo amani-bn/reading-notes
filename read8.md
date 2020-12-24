@@ -1,6 +1,6 @@
 # comparison opertor
-| opetor | what doing |
-| ****** | ****** |
+|opetor|what doing|
+|****** |******|
 | == | |  compares two values(numbers,strings,boolean) to see if they are the same |
 | != | | compares two values (numbers,strings,boolean) to see if they are not the same |
 | === | |  compares two values to check that both the data type and value are the same |
