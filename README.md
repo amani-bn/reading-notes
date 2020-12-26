@@ -1,10 +1,11 @@
 
 # Intro:
-## my name amani bani naser im computer engineering 
-### this is [ my link to GitHub profile ](https://github.com/amani-bn)
+
+## My name Amani Bani Naser im computer engineering. 
+### [ my  GitHub profile : ](https://github.com/amani-bn)
 
 
-
+Here Table of Content :
 | title | link |
 | ----- | --------------------------------------------------------------- |
 | read1 | [link to read1](https://amani-bn.github.io/reading-notes/read1) |
