@@ -1,11 +1,13 @@
 
-# Intro:
+# Reading Notes :
 
-## My name Amani Bani Naser im computer engineering. 
-### [ my  GitHub profile : ](https://github.com/amani-bn)
+ this **web site**  contain a summarization of each reading material we took it in class during our journey in ***ASAC***
 
+### |[my GitHub profile ](https://github.com/amani-bn)|
 
-Here Table of Content :
+## Code 102 - Intro to Software Development
+
+#### Here Table of Content :
 
 |title      |link |
 |-----      |---------------------------------------------------------------     |
@@ -18,3 +20,21 @@ Here Table of Content :
 |read7      |[link to read7](https://amani-bn.github.io/reading-notes/read67)    |
 |read8      |[link to read8](https://amani-bn.github.io/reading-notes/read68)    |
 |read5      |[link to read5](https://amani-bn.github.io/reading-notes/read5)     |
+
+<br>
+
+## Code 201 - Foundations of Software Development : it's found in separate **Repo**
+
+<br>
+
+## Code 301 - Intermediate Software Development
+
+#### Here Table of Content :
+
+|title      |link |
+|-----      |---------------------------------------------------------------     |
+|read1      |[link to read1]()     |
+|read2 |[link to read2]()     |
+|read3 |[link to read3]()     |
+
+
