@@ -7,11 +7,11 @@
 
 #  Responsive web design is broken down into three main components:
 
-|Component:|Defintion|
-| ------- |----------------------------------------------------------|
+|Component:      |Defintion|
+| -------        |----------------------------------------------------------|
 |flexible layouts|the practice of building the layout of a website with a flexible grid, capable of dynamically resizing to any width|
-|Media queries| provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation for example|
-|Flexible Media|As viewports begin to change size media doesn’t always follow suit.Images,videos,and other media types need to be scalable|
+|Media queries   | provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation for example|
+|Flexible Media  |As viewports begin to change size media doesn’t always follow suit.Images,videos,and other media types need to be scalable|
 
 ## There are a couple different ways to use media queries:
 - using the @media rule inside of an existing style sheet.
