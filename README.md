@@ -33,7 +33,7 @@
 
 |title      |link |
 |-----      |---------------------------------------------------------------     |
-|read1      |[link to read1]()     |
+|read1      |[link to read1](https://amani-bn.github.io/reading-notes/read31)     |
 |read2 |[link to read2]()     |
 |read3 |[link to read3]()     |
 
