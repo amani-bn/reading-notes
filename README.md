@@ -32,9 +32,9 @@
 #### Here Table of Content :
 
 |title  |link|
-|-----  |---------------------------------------------------------------     |
+|-----  |---------------------------------------------------------------       |
 |read31 |[link to read31](https://amani-bn.github.io/reading-notes/read31)     |
-|read32 |[link to read32]()     |
-|read33 |[link to read33]()     |
+|read32 |[link to read32](https://amani-bn.github.io/reading-notes/read32)     |
+|read33 |[link to read33]()                                                    |
 
 
