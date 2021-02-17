@@ -37,5 +37,7 @@
 |read32 |[link to read32](https://amani-bn.github.io/reading-notes/read32)     |
 |read33 |[link to read33](https://amani-bn.github.io/reading-notes/read33)                                          |
 |read34 |[link to read34](https://amani-bn.github.io/reading-notes/read34)                                          |
+|read35 |[link to read35](https://amani-bn.github.io/reading-notes/read35)                                          |
+
 
 
