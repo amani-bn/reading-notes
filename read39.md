@@ -3,7 +3,7 @@
 
 ## <b>Complexity</b> is anything that makes software hard to understand or to modify.
 
-## `immutability` and `pure function` are big advantages to build side-effect-free functions, so it is easier to maintain systems .
+## `immutability` and `pure function` are big advantages to build side-effect-free functions, so it is easier to maintain systems.
 
 ### Immutability Unchanging over time or unable to be changed.
 
