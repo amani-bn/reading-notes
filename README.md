@@ -42,4 +42,6 @@
 |read37 |[link to read37](https://amani-bn.github.io/reading-notes/read37)                                          |
 |read38 |[link to read38](https://amani-bn.github.io/reading-notes/read38)                                          |
 |read39 |[link to read39](https://amani-bn.github.io/reading-notes/read39)                                          |
+|read310 |[link to read310](https://amani-bn.github.io/reading-notes/read310)                                          |
+
 
