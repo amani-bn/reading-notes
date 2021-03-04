@@ -47,6 +47,7 @@
 |read312 |[link to read312](https://amani-bn.github.io/reading-notes/read312)                                          |
 |read313 |[link to read313](https://amani-bn.github.io/reading-notes/read313)                                          |
 |read314 |[link to read314](https://amani-bn.github.io/reading-notes/read314)                                          |
+|read315 |[link to read315](https://amani-bn.github.io/reading-notes/read315)                                          |
 
 
 
