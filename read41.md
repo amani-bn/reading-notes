@@ -1,5 +1,5 @@
 # Java Basics
-![](java1.jpg)
+![](java1.png)
 
 ## <b>Variables</b>
 ### The Java programming language defines the following kinds of variables:
@@ -47,3 +47,7 @@
 - (if-then, if-then-else, switch).
 - the looping statements (for, while, do-while).
 - the branching statements (break, continue, return).
+
+
+# Q:what is the compiler ?
+## A: a compiler is a computer program that translates computer code written in one programming language into another language.
