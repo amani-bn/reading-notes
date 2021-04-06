@@ -60,7 +60,7 @@
 |-----  |---------------------------------------------------------------       |
 |read41 |[link to read41](https://amani-bn.github.io/reading-notes/read41)     |
 |read42 |[link to read42](https://amani-bn.github.io/reading-notes/read42)     |
-|read43 |[link to read43]()     |
+|read43 |[link to read43](https://amani-bn.github.io/reading-notes/read43)     |
 |read44 |[link to read44]()     |
 |read45 |[link to read45]()     |
 |read46 |[link to read46]()     |
